@@ -29,12 +29,12 @@ def gcd():
     for i in range (1,smaller+1):
         if(n1%i==0 and n2%i==0):
             gcd=i
-    print("GCD of two numbers is:",gcd)
+   print("GCD of two numbers is:",gcd)
     */
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+![gcd of two number](GCD.png)
 
 
 ## Result:
